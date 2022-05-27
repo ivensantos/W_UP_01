@@ -1,6 +1,6 @@
 ---
 title: "W_UP_01"
-author: "Iven Sants"
+author: "Iven Santos"
 date: "Summer 2022"
 output: html_document
 ---
